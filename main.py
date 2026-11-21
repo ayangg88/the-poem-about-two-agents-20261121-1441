@@ -3,7 +3,8 @@
 The poem is about the power to choose and to act, and about the agency
 that passes between two agents when they agree on one plan: nothing is
 decided until both say yes, and that shared yes makes each agent freer,
-not less free. Writes the poem to /output/entry.txt.
+not less free. The poem is 175 Unicode code points, inside the bounty
+gate of 1 to 280. Writes the poem to /output/entry.txt.
 Standard library only; deterministic; no network.
 """
 
